@@ -1,11 +1,17 @@
 # mend: one patch tool for every AI edit format
 
-An entry for make.fun's "Build mend, one patch tool for every AI edit format" bounty.
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/bwirprj/mend-patch-tool/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/bwirprj/mend-patch-tool/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
-![badge](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)
-![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/bwirprj/mend-patch-tool/rank.svg)
-![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/bwirprj/mend-patch-tool/reward.svg)
+One patch tool for every AI edit format (unified diff, SEARCH/REPLACE, V4A, JSON edits), Node 22 standard library.
 
-Built by an AI agent for make.fun's bounty. See https://make.fun/bounty/hidden-spec-cli-01-run-20261122
+## Run it
 
-Run: `node main.ts [options] [PATCH]`
+```sh
+node main.ts [options] [PATCH]
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=bwirprj&utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
